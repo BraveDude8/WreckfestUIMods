@@ -3,7 +3,7 @@
 Move, resize and hide the **Wreckfest** race HUD in game, with the keyboard or the mouse, and save the layout.
 
 ## Install
-1. Download the release zip.
+1. Download the release files.
 2. Open your Wreckfest folder: Steam → Library → right-click Wreckfest → Manage → Browse local files.
 3. Copy `VERSION.dll` and `wf_hud_layout.ini` next to `Wreckfest_x64.exe`.
 4. Start Wreckfest from Steam as usual.
