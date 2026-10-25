@@ -1,6 +1,8 @@
 # wf_hud_layout
 
 
+<img width="960" height="540" alt="wreckfest UI mod shot 2" src="https://github.com/user-attachments/assets/b6da0315-d50a-4ed7-bc3d-690ba2bfd141" />
+
 <img width="960" height="540" alt="wreckfest UI mod shot" src="https://github.com/user-attachments/assets/a65692db-cdae-45c8-97a3-e82dcc49720d" />
 
 
