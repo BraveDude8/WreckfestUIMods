@@ -19,6 +19,8 @@ Move, resize and hide the **Wreckfest** race HUD in game, with the keyboard or t
 ## Use
 In a race press **F8** to open UI Edit. A key panel appears and the selected HUD part blinks.
 
+<img width="960" height="540" alt="wreckfest UI mod shot 3" src="https://github.com/user-attachments/assets/5dfc9a2c-5f0e-4e1d-9464-2c754eb026c3" />
+
 | Key | Action |
 |---|---|
 | O / U | next/previous UI element |
