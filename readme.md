@@ -5,6 +5,8 @@
 
 Move, resize and hide the **Wreckfest** race HUD in game, with the keyboard or the mouse, and save the layout.
 
+Also it shows you what song is playing when you start a race.
+
 ## Install
 1. Download the release files.
 2. Open your Wreckfest folder: Steam → Library → right-click Wreckfest → Manage → Browse local files.
