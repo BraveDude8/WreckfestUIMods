@@ -4,8 +4,7 @@
 <img width="960" height="540" alt="wreckfest UI mod shot 2" src="https://github.com/user-attachments/assets/b6da0315-d50a-4ed7-bc3d-690ba2bfd141" />
 
 Move, resize and hide the **Wreckfest** race HUD in game, with the keyboard or the mouse, and save the layout.
-
-Also it shows you what song is playing when you start a race.
+You can also add custom menu/race music to the game, and it now shows you what song is playing ingame.
 
 ## Install
 1. Download the release files.
